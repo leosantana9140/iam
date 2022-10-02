@@ -1,0 +1,15 @@
+spring:
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    defer-datasource-initialization: false
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
+  datasource:
+    driverClassName: org.h2.Driver
+    url: jdbc:h2:mem:forum
+    username: sa
+    password:
+jwt:
+  secret: 12345
