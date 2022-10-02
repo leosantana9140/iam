@@ -13,7 +13,7 @@
 
 ## 🔖 Sobre
 
-Este projeto possui como objetivo atuar como um Identity and Access Management (IAM), sendo uma espécie de centralizador de geração de tokens utilizados em meus projetos que possuem alguma API REST.
+Este projeto possui como objetivo atuar como um Identity and Access Management (IAM), sendo uma espécie de centralizador de geração de tokens, os quais utilizo em meus projetos que possuem alguma API REST.
 
 ---
 
