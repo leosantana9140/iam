@@ -19,7 +19,7 @@ Este projeto possui como objetivo atuar como um Identity and Access Management (
 
 ## 💻 Tecnologias utilizadas
 
-Esta biblioteca foi desenvolvida utilizando a seguinte tecnologia:
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [Kotlin](https://kotlinlang.org)
 - [Spring Framework](https://spring.io)
